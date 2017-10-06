@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 def sumar(a,b):
     """
@@ -11,4 +12,5 @@ def sumar(a,b):
     """
     return a + b
 
-
+if __name__ == '__main__':
+    print(sumar(3,4))
