@@ -34,7 +34,7 @@ def sumar_rst(a,b):
         - 2: opción 2
     :type a: dataframe
     :param b: segundo número a sumar.
-    :type b: Dataframe
+    :type b: DataFrame
     :return: a + b
     :rtype: pandas.DataFrame
 
