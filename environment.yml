@@ -1,8 +1,0 @@
-name: sphinx-conda
-channels:
-  - conda-forge
-dependencies:
-- netcdf4
-- pandas
-- numpy
-- pygrib
