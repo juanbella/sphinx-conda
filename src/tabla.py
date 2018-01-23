@@ -83,7 +83,7 @@ def sumar_google(a,b):
         b (int or string): segundo número a sumar.
 
     Returns:
-        a + b
+        int or string: a + b
 
     """
     return a + b
