@@ -73,14 +73,14 @@ def sumar_google(a,b):
     Realiza la suma de dos números y devuelve el resultado.
 
     Args:
-        a (int or string): primer número a sumar.
+        a (int or float): primer número a sumar.
 
             Lista con opciones posibles:
 
             - 1: opción 1
             - 2: opción 2
 
-        b (int or string): segundo número a sumar.
+        b (int or float): segundo número a sumar.
 
     Returns:
         int or float: a + b
