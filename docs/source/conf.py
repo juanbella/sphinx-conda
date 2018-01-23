@@ -34,7 +34,7 @@ sys.path.insert(0, os.path.abspath('../../src'))
 extensions = ['sphinx.ext.autodoc','sphinx.ext.intersphinx', 'sphinx.ext.napoleon']
 	
 
-napoleon_use_rtype = False
+napoleon_use_rtype = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
