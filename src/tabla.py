@@ -32,11 +32,11 @@ def sumar_rst(a,b):
 
         - 1: opción 1
         - 2: opción 2
-    :type a: dataframe
+    :type a: int or float
     :param b: segundo número a sumar.
-    :type b: DataFrame
+    :type b: int or float
     :return: a + b
-    :rtype: pandas.DataFrame
+    :rtype: int or float
 
     """
     return a + b
