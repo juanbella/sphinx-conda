@@ -32,7 +32,7 @@ def sumar_rst(a,b):
 
         - 1: opción 1
         - 2: opción 2
-
+    :type a: int or float
     :param b: segundo número a sumar.
     :return: a + b
 
