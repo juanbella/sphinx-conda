@@ -72,10 +72,10 @@ def sumar_google(a,b):
     Args:
         a: fichero con los datos a leer.
 
-        Lista con opciones posibles:
+          Lista con opciones posibles:
 
-        - 1: opción 1
-        - 2: opción 2
+          - 1: opción 1
+          - 2: opción 2
         b: segundo número a sumar
 
     Returns:
