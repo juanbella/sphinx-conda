@@ -13,7 +13,8 @@ def sumar_epydoc(a,b):
 
         - 1: opción 1
         - 2: opción 2
-    @param b: segundo número a sumar
+
+    @param b: segundo número a sumar.
     @return: a + b
 
     """
@@ -31,7 +32,8 @@ def sumar_rst(a,b):
 
         - 1: opción 1
         - 2: opción 2
-    :param b: segundo número a sumar
+
+    :param b: segundo número a sumar.
     :return: a + b
 
     """
@@ -52,8 +54,9 @@ def sumar_numpy(a,b):
 
         - 1: opción 1
         - 2: opción 2
+
     b : int or float
-        segundo número a sumar
+        segundo número a sumar.
 
     Returns
     -------
@@ -70,13 +73,14 @@ def sumar_google(a,b):
     Realiza la suma de dos números y devuelve el resultado.
 
     Args:
-        a: fichero con los datos a leer.
+        a: primer número a sumar.
 
-          Lista con opciones posibles:
+            Lista con opciones posibles:
 
-          - 1: opción 1
-          - 2: opción 2
-        b: segundo número a sumar
+            - 1: opción 1
+            - 2: opción 2
+
+        b: segundo número a sumar.
 
     Returns:
         a + b
