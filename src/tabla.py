@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import numpy
+
 def sumar_epydoc(a,b):
     """
     Suma los dos números pasados como argumento.
